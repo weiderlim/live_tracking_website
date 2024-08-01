@@ -8,7 +8,7 @@ Registering Domain name in AWS ecosystem : https://medium.com/@yashpatel007/how-
 
 SSL : https://certbot.eff.org/instructions?ws=nginx&os=ubuntubionic
 https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04
-
+-- Remember to delete the default folder in etc/ngins/sites-enabled before running certbot certification command. 
 
 # General steps to host own website : 
 1. Create server instance (AWS EC2 in this case)
